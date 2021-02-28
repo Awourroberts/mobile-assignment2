@@ -25,4 +25,3 @@ fun addition(num1:Int,num2:Int,num3:Int,num4:Int): Int {
 fun interestingFact(){
     var interestingFact=" am curious"
     println (interestingFact)
-}
